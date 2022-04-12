@@ -5,7 +5,7 @@ import java.io.IOException;
 public class Program {
 	public static void main(String[ ] args) throws IOException {
 		GUI simInput;
-        Map map = Map.JsonMapLoad("/Users/Anthony/Documents/Fordham/Fordham_2021-2022/Spring_2022/Object_Software_Design/TrafficSim/src/main/java/HWWeek9/map.json");
+        Map map = Map.JsonMapLoad("/Users/Anthony/Documents/Fordham/Fordham_2021-2022/Spring_2022/Object_Software_Design/TrafficSim/src/main/java/HWWeek9/map2.json");
         IPrintDriver cp = new ConsolePrint();
 
         simInput = new MetricGUI();

@@ -1,102 +1,102 @@
 {
-  "Roads": [
+  "roads": [
     {
-      "Name": "Entry Road N",
-      "Length": 20,
-      "XLocation": 79,
-      "YLocation": -93,
-      "Heading": 0
+      "name": "Entry Road N",
+      "length": 20,
+      "xLocation": 79,
+      "yLocation": -93,
+      "heading": 0
     },
     {
-      "Name": "Entry Road S",
-      "Length": 20,
-      "XLocation": 75,
-      "YLocation": -73,
-      "Heading": 1
+      "name": "Entry Road S",
+      "length": 20,
+      "xLocation": 75,
+      "yLocation": -73,
+      "heading": 1
     },
     {
-      "Name": "Westside Highway N",
-      "Length": 160,
-      "XLocation": 79,
-      "YLocation": -73,
-      "Heading": 0
+      "name": "Westside Highway N",
+      "length": 160,
+      "xLocation": 79,
+      "yLocation": -73,
+      "heading": 0
     },
     {
-      "Name": "Westside Highway S",
-      "Length": 160,
-      "XLocation": 75,
-      "YLocation": 85.999999999999986,
-      "Heading": 1
+      "name": "Westside Highway S",
+      "length": 160,
+      "xLocation": 75,
+      "yLocation": 85.999999999999986,
+      "heading": 1
     },
     {
-      "Name": "Eastside Drive N",
-      "Length": 160,
-      "XLocation": -81,
-      "YLocation": -73,
-      "Heading": 0
+      "name": "Eastside Drive N",
+      "length": 160,
+      "xLocation": -81,
+      "yLocation": -73,
+      "heading": 0
     },
     {
-      "Name": "Eastside Drive S",
-      "Length": 160,
-      "XLocation": -77,
-      "YLocation": 86.999999999999986,
-      "Heading": 1
+      "name": "Eastside Drive S",
+      "length": 160,
+      "xLocation": -77,
+      "yLocation": 86.999999999999986,
+      "heading": 1
     },
     {
-      "Name": "Midway Way N",
-      "Length": 80,
-      "XLocation": -4,
-      "YLocation": 7,
-      "Heading": 0
+      "name": "Midway Way N",
+      "length": 80,
+      "xLocation": -4,
+      "yLocation": 7,
+      "heading": 0
     },
     {
-      "Name": "Midway Way S",
-      "Length": 80,
-      "XLocation": 0,
-      "YLocation": 86.999999999999986,
-      "Heading": 1
+      "name": "Midway Way S",
+      "length": 80,
+      "xLocation": 0,
+      "yLocation": 86.999999999999986,
+      "heading": 1
     },
     {
-      "Name": "Southern Tier Exp W",
-      "Length": 160,
-      "XLocation": 79,
-      "YLocation": -72,
-      "Heading": 3
+      "name": "Southern Tier Exp W",
+      "length": 160,
+      "xLocation": 79,
+      "yLocation": -72,
+      "heading": 3
     },
     {
-      "Name": "Southern Tier Exp E",
-      "Length": 160,
-      "XLocation": -81,
-      "YLocation": -76,
-      "Heading": 2
+      "name": "Southern Tier Exp E",
+      "length": 160,
+      "xLocation": -81,
+      "yLocation": -76,
+      "heading": 2
     },
     {
-      "Name": "Main Street W",
-      "Length": 160,
-      "XLocation": 79,
-      "YLocation": 7,
-      "Heading": 3
+      "name": "Main Street W",
+      "length": 160,
+      "xLocation": 79,
+      "yLocation": 7,
+      "heading": 3
     },
     {
-      "Name": "Main Street E",
-      "Length": 160,
-      "XLocation": -81,
-      "YLocation": 3,
-      "Heading": 2
+      "name": "Main Street E",
+      "length": 160,
+      "xLocation": -81,
+      "yLocation": 3,
+      "heading": 2
     },
     {
-      "Name": "Northway W",
-      "Length": 160,
-      "XLocation": 79,
-      "YLocation": 86.999999999999986,
-      "Heading": 3
+      "name": "Northway W",
+      "length": 160,
+      "xLocation": 79,
+      "yLocation": 86.999999999999986,
+      "heading": 3
     },
     {
-      "Name": "North Way E",
-      "Length": 160,
-      "XLocation": -81,
-      "YLocation": 83,
-      "Heading": 2
+      "name": "North Way E",
+      "length": 160,
+      "xLocation": -81,
+      "yLocation": 83,
+      "heading": 2
     }
   ]
 }

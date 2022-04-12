@@ -10,16 +10,16 @@ import java.util.List;
 
 public class Map
 {
-    private List<Road> roads;
+    private List<Road> Roads;
 
     public Map()
     {
-        roads = new ArrayList<Road>();
+        Roads = new ArrayList<Road>();
     }
 
     public void AddRoad(Road road)
     {
-        roads.add(road);
+        Roads.add(road);
     }
 
     public static Map JsonMapLoad(String path) throws IOException
@@ -38,7 +38,7 @@ public class Map
 
     public void Print(IPrintDriver pd, Object o)
     {
-        for(Road road : roads)
+        for(Road road : Roads)
         {
             road.Print(pd, o);
         }

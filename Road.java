@@ -16,11 +16,11 @@ public class Road
     }
 
 	//private RoadItem head;
-    private String name;
-    private double length;
-    private double xlocation;
-    private double ylocation;
-    private Heading heading;
+    private String Name;
+    private double Length;
+    private double XLocation;
+    private double YLocation;
+    private Heading Heading;
     public static int NumOfRoads = 0;
 
     public Road(String streetName, double locX, double locY, double len, Heading hdg)
@@ -28,37 +28,37 @@ public class Road
         //head = new RoadItem();
         //head.SetPrevious(null);
         //head.SetNext(null);
-        name = streetName;
-        length = len;
-        heading = hdg;
-        xlocation = locX;
-        ylocation = locY;
+        Name = streetName;
+        Length = len;
+        Heading = hdg;
+        XLocation = locX;
+        YLocation = locY;
         NumOfRoads++;
     }
 
     public double GetLength() 
     { 
-    	return length; 
+    	return Length;
     }
 
     public double GetXLocation() 
     { 
-        return xlocation; 
+        return XLocation;
     }
 
     public double GetYLocation() 
     { 
-        return ylocation; 
+        return YLocation;
     }
 
-    public Heading GetHeading() 
+    public Heading GetHeading()
     { 
-        return heading; 
+        return Heading;
     }
 
     public String GetRoadName() 
     { 
-        return name; 
+        return Name;
     }
 
         //public void AddRoadItem(RoadItem roadItem)
